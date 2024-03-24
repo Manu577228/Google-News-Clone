@@ -1,0 +1,23 @@
+.navbar-nav {
+  margin-top: 10px;
+}
+
+.navbar-brand img {
+  height: 120px;
+  width: 220px;
+}
+
+.card {
+  height: 100%;
+  margin-bottom: 20px;
+}
+
+/* .card-body {
+  height: 200px;
+  overflow: hidden;
+} */
+
+.card-img-top {
+  height: 100%;
+  object-fit: cover;
+}
